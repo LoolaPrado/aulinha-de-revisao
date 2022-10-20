@@ -1,0 +1,55 @@
+.div1 {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.title1 { 
+    color: coral;
+}
+
+.frase1 {
+    color: darkred;
+    font-size: 15px;
+}
+.div2 {
+    background-color: lightblue;
+    text-align: center;
+}
+
+.titulo-principal {
+    font-size: 25px;
+    
+}
+
+.frase2 {
+    font-size: 18px;
+    color: olive;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.imagem2 {
+    border-radius: 10px;
+    text-align: center;
+}
+
+.div3 {
+    background-color: blueviolet;
+    padding-top: 20px;
+    margin-top: 50px;
+    
+}
+
+.par-div3 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: circle;
+    list-style-position: outside;
+    list-style-image: none;
+}
